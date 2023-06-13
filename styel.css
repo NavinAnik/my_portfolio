@@ -1,4 +1,4 @@
-#home.carousel-item{
+.carousel-item{
 	height: 100vh;
 	background-position: center;
 	background-size:cover ;
@@ -26,8 +26,4 @@
 	background-size: 700px;
 	background-position-x: center ;
 	background-position-y: start ;
-}
-
-.experience{
-	margin-top:24px ;
 }
