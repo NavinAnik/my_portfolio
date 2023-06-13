@@ -15,3 +15,15 @@
 .background3{
 	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/backgrounds/john-smit-q2fY5MGh1CM-unsplash.jpg");
 }
+
+.skill{
+	margin-top:20px ;
+}
+
+#aboutme{
+	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/bio/artificial-intelligence-icon-11.jpg");
+	background-repeat: no-repeat;
+	background-size: 700px;
+	background-position-x: center ;
+	background-position-y: start ;
+}
