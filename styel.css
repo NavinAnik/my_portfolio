@@ -1,0 +1,17 @@
+.carousel-item{
+	height: 100vh;
+	background-position: center;
+	background-size:cover ;
+}
+
+.background1{
+	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/backgrounds/daniel-josef-AMssSjUaTY4-unsplash.jpg");
+}
+
+.background2{
+	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/backgrounds/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg");
+}
+
+.background3{
+	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/backgrounds/john-smit-q2fY5MGh1CM-unsplash.jpg");
+}
