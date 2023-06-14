@@ -5,15 +5,15 @@
 }
 
 .background1{
-	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/backgrounds/daniel-josef-AMssSjUaTY4-unsplash.jpg");
+	background-image: url("resourse/img/backgrounds/daniel-josef-AMssSjUaTY4-unsplash.jpg");
 }
 
 .background2{
-	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/backgrounds/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg");
+	background-image: url("resourse/img/backgrounds/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg");
 }
 
 .background3{
-	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/backgrounds/john-smit-q2fY5MGh1CM-unsplash.jpg");
+	background-image: url("resourse/img/backgrounds/john-smit-q2fY5MGh1CM-unsplash.jpg");
 }
 
 .skill{
@@ -21,7 +21,7 @@
 }
 
 #aboutme{
-	background-image: url("E:/New folder (4)/My Portfolio/resourse/img/bio/artificial-intelligence-icon-11.jpg");
+	background-image: url("resourse/img/bio/artificial-intelligence-icon-11.jpg");
 	background-repeat: no-repeat;
 	background-size: 700px;
 	background-position-x: center ;
